@@ -15,7 +15,7 @@
 1. 拉取项目：
 
    ```
-   git clone
+   git clone https://github.com/yuheng2333/demoAI.git
    ```
 
 2. 切换到项目中：
